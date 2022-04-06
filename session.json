@@ -1,4 +1,15 @@
 {
+
+	"clientID": "2jOx0fHhZEwuVrsWoI+I9w==",	"serverToken": "1@AsUkGLvvlVsDaaAHNyut7FpGJs90FXZTa1JQK3AOzEcy0uwVPGVoF4aKMJxvs3YnNG7K5JExstfDFQ==",
+
+	"clientToken": "1jO6pxx+z/BU69W0mRKZa+A1Up7JiRuMPg8nZo0TeVA=",
+
+	"encKey": "62n0NLz8Bagt5ys8MVX/4JxHThHOvkDlo26R/kEgepE=",
+
+	"macKey": "aTYyvvYxwV0QfppNU07wU5GzVNGqDYWx0rbIbWxmQQk="
+
+}
+{
   "creds": {
     "noiseKey": {
       "private": {
