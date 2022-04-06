@@ -19,11 +19,11 @@ global.available = false //status online (online)
 
 // Other
 global.botname = "FANDBOTZ" //namabot kalian
-global.ownername= "FANDYBOT×፝֟͜×" //nama kalian
+global.ownername= "FANDYBOT" //nama kalian
 global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.github = "https://Fandbot.github.io/" //bebas
+global.email = "animimo90@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "6281909974196" // nomor wa kalian
 global.ownernomerr = "+6281909974196" //nmr wa kalian
